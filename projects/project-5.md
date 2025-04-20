@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing-page-2.jpg
+image: images/ww1.png
 title: Working Wands (WIP)
 permalink: projects/workingwands
 # All dates must be YYYY-MM-DD format!
@@ -20,7 +20,8 @@ The goal for the player is to create weapons / potions for customers who enter t
 
 <img class="ui huge centered image" src="../images/ww2.png">
 
-The game is being created using the Godot game engine software that uses GDScript as it's main programming language. GDScript is a built in programming language within Godot that mostly resembles Python.
+The game is being created using the Godot game engine software that uses GDScript as it's main programming language. 
+GDScript is a built in programming language within Godot that mostly resembles Python.
 
 <img class="ui huge centered image" src="../images/ww3.png">
 
