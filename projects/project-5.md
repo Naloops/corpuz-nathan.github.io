@@ -10,13 +10,14 @@ labels:
   - Indie Game Development
   - GDScript
   - Solo Project
-summary: A shop simulation game that I am currently solo developing (currently still in development).
+summary: A shop simulation game that I am currently solo developing as a personal project (currently still in development).
 ---
 
 <img class="ui huge centered image" src="../images/ww1.png">
 
 For the past year, I have been developing a shop simulation / management game on my own. In this game, players will manage their shops in an RPG setting. 
 The goal for the player is to create weapons / potions for customers who enter their shops.
+The main inspiration for this game is from a different game called "Plate Up".
 
 <img class="ui huge centered image" src="../images/ww2.png">
 
@@ -25,7 +26,7 @@ GDScript is a built in programming language within Godot that mostly resembles P
 
 <img class="ui huge centered image" src="../images/ww3.png">
 
-I utilized another software called Aseprite to help create pixel art for my game.
+I utilized another software called Aseprite to help create pixel art for my game. Aseprite allows me to control animations and the current states of players / objects with the game.
 
 <img class="ui huge centered image" src="../images/ww4.png">
 
