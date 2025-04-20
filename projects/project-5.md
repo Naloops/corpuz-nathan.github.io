@@ -5,11 +5,11 @@ image: images/landing-page-2.jpg
 title: ICS 314 Neko-Map
 permalink: projects/nekomap
 # All dates must be YYYY-MM-DD format!
-date: 2021-05-12
+date: 2024-03-11
 labels:
-  - Cat Finder
-  - Website Application
-  - Group Project
+  - Indie Game Development
+  - GDScript
+  - Solo Project
 summary: A Cat Finder website application developed in ICS 314.
 ---
 
