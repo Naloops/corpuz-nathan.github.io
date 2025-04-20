@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Nathan Corpuz",
+    "label": "Student",
+    "picture": "https://nathancorpuz.github.io/images/dontlookatme.jpg",
+    "email": "nathandc@hawaii.edu",
+    "phone": "",
+    "website": "https://nathancorpuz.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2022.",
+    "location": {
+      "address": "",
+      "postalCode": "96793",
+      "city": "Wailuku",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "nathandcorpuz",
+        "url": "http://github.com/nathancorpuz"
+      },
+      {
+        "network": "linkedin",
+        "username": "nathancorpuz",
+        "url": "http://linkedin.com/in/nathan-corpuz-869537204"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "cyber security",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "game development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "web development",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "C#",
+        "Java",
+        "Javascript",
+        "HTML",
+        "SemanticUI",
+        "Meteor"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows",
+        "MacOS",
+        "Git/GitHub"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2019",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Maui College",
+      "position": "Math Tutor",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "Math tutor for the UHMC math lab",
+      "highlights": [
+        "Assist students with math classes such as Algebra, Statistics, Calculus, etc.",
+        "Attend math classes to help as an teaching assistant", 
+        "Monitor students during proctored quizes and exams at the Math Lab",
+        "Answering phone calls for scheduled appointments or lab hours"
+      ]
+    }, 
+    {
+      "company": "Department of Transportation",
+      "position": "Office Assistant",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "2015",
+      "summary": "Office Assistant for the Department of Transportation",
+      "highlights": [
+        "Photocopied numerous documents and filed them in an organized manner."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "StarWish",
+      "date": "2016-2018",
+      "awarder": "Sheraton Maui Resort & Spa",
+      "summary": "Scholarships awarded to students with a family member employed at Sheraton Maui Resort & Spa."
+    },
+    {
+      "title": "Dean's List",
+      "date": "2019-2020",
+      "awarder": "University of Hawaii Manoa",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
