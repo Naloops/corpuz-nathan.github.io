@@ -86,23 +86,22 @@
       ]
     }
   ],
-  "projects": [
-    {
-      "company": "UH Maui College",
-      "position": "Math Tutor",
-      "website": "",
-      "startDate": "2016",
-      "endDate": "2019",
-      "summary": "Math tutor for the UHMC math lab",
-      "highlights": [
-        "Assist students with math classes such as Algebra, Statistics, Calculus, etc.",
-        "Attend lectures as teaching assistant", 
-        "Monitor students during proctored quizes and exams",
-        "Answering phone calls for scheduled appointments or lab hours"
-      ]
-    }
-  ],
+  
   "work": [
+    {
+      "company": "Solo Project",
+      "position": "Indie Game Developer",
+      "website": "",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Project planning/scoping",
+        "Designing code base for development", 
+        "Creation of art and sound assets for project",
+        "Troubleshooting bugs that appear during development."
+      ]
+    },
     {
       "company": "UH Maui College",
       "position": "Math Tutor",
